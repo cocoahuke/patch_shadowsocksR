@@ -40,8 +40,8 @@ As title, move the ShadowsocksX-R to the Applications folder
 
 Just run this script
 ```bash
-git clone https://github.com/cocoahuke/patch_shadowsocksR .git \
+git clone https://github.com/cocoahuke/patch_shadowsocksR.git \
 && cd patch_shadowsocksR \
-&& make \
+&& make
 
 ```
