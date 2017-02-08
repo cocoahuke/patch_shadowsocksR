@@ -2,7 +2,7 @@
 
 The following tutorial will help you use ShadowSocket in Macos10.10
 
-I've been using older versions of ShadowSocket before, but then when my SS provider updated their server(New: Protocol/OBFS), older version of shadowsocks is no longer be use
+I've been using older versions of ShadowSocket before, but then when my SS provider updated their server(New: Protocol/OBFS), older versions of shadowsocks can not be used anymore
 
 Although the program can normally open, But one of executable program in application bundle (ShadowsocksX-R.app/Contents/Resources/ss-local),
 This one is not running
