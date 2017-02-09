@@ -11,7 +11,7 @@ The ss-local reference to a function called clock_gettime that's not exist in ma
 
 All we need have to do, its just replace this function, make it can work on macos
 
-ShadowsocksX-NG won't supported, cause the CoreImage.framework framework is missing, This is difficult to solve except updating the system
+ShadowsocksX-NG won't supported, because the CoreImage.framework framework is missing, This is difficult to solve except updating the system
 ```
 dyld: Library not loaded: /System/Library/Frameworks/CoreImage.framework/Versions/A/CoreImage
   Referenced from: /Users/huke/Desktop/ShadowsocksX-NG.app/Contents/MacOS/ShadowsocksX-NG
@@ -32,7 +32,7 @@ release versions links are below
 Latest release (1.3.9):
 [https://github.com/yichengchen/ShadowsocksX-R/releases/tag/sst_1.3.9](https://github.com/yichengchen/ShadowsocksX-R/releases/tag/sst_1.3.9)
 
-after we got app bundle, the application should be able to open normally. still can not be used though, cause lack of clock_gettime this function
+after we got app bundle, the application should be able to open normally. still can not be used though, because lack of clock_gettime this function
 ## Second step: **Move to Applications folder**
 As title, move the ShadowsocksX-R to the Applications folder
 
