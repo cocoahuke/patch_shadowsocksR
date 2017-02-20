@@ -1,5 +1,7 @@
 #Make ShadowsocksX-R running in Macos 10.10
 
+[![Contact](https://img.shields.io/badge/contact-@cocoahuke-fbb52b.svg?style=flat)](https://twitter.com/cocoahuke)
+
 The following tutorial will help you use ShadowSocket in Macos10.10
 
 I've been using older versions of ShadowSocket before, but then when my SS provider updated their server(New: Protocol/OBFS), older versions of shadowsocks can not be used anymore
